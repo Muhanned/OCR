@@ -1,2 +1,2 @@
-# OCR
-detecting Text data from Images
+# Optical-Character-Recognition
+Character detector which extracts printed or handwritten text from an image or video
